@@ -1,7 +1,13 @@
-## 已完成 macos(x86-64,m系芯片暂不支持)、windows包，支持全平台的类TVbox软件，使用flutter + nodejs 架构实现；
-支持 TVbox格式配置的T4(type=4)、cms-json(type=1)源
-支持 猫爪nodejs源配置
-支持嗅探播放，配置同TVbox(parse=1),windows端暂未实现
+## 已完成 macos(x86-64,m系芯片暂不支持)、windows包，支持全平台的类TVbox软件，使用flutter + nodejs 架构实现，播放器mpv；
+	- 支持 TVbox格式配置的T4(type=4)、cms-json(type=1)源
+	- 支持 猫爪nodejs源配置
+	- 支持嗅探播放，配置同TVbox(parse=1),windows端暂未实现
+
+## 待实现功能(空闲时间看心情开发 (#^.^#))
+	- 播放历史记录
+	- 新增播放器切换
+	- 磁力播发
+	- 整合漫画、音乐、小说功能
 
 ## 下载链接地址：<a href="https://github.com/LuckySe7ens/tvbox_config/releases">releases</a>
 ### t1 & t4配置 [https://d.kstore.dev/download/8943/nodejs/api.json](https://d.kstore.dev/download/8943/nodejs/api.json)
