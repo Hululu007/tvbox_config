@@ -1,7 +1,7 @@
-## 已完成 macos(x86-64,m系芯片暂不支持)、windows包，支持全平台的类TVbox软件，使用flutter + nodejs 架构实现，播放器mpv；
-	- 支持 TVbox格式配置的T4(type=4)、cms-json(type=1)源
+## 已完成 android、ios、macos、windows全平台的类TVbox软件，使用flutter + nodejs 架构实现，播放器mpv；
+	- 支持 TVbox格式配置的T4(type=4)、cms-json(type=1)源、旧版猫影视js源(type=3)
 	- 支持 猫爪nodejs源配置
-	- 支持嗅探播放，配置同TVbox(parse=1),windows端暂未实现
+	- 支持嗅探播放，配置同TVbox(parse=1)
 
 ## 待实现功能(空闲时间看心情开发 (#^.^#))
 	- 播放历史记录
